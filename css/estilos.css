@@ -47,7 +47,7 @@ body {
 }
 
 .portada .header {
-	margin-bottom: 100px;
+	margin-bottom: 10px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
@@ -103,10 +103,10 @@ main {
 
 @media only screen and (max-width: 600px) {
 	#cuenta {
-	  display: flex;
-	  flex-direction: column;
+		display: flex;
+		flex-direction: column;
 	}
-  }
+}
 
 @keyframes move-background {
 	from {
