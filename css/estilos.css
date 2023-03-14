@@ -189,7 +189,7 @@ main {
 	right: 0;
 	top: 0;
 	bottom: 0;
-	z-index: -4; 
+	z-index: 2; 
 	-moz-animation: move-background 150s linear infinite;
 	-ms-animation: move-background 150s linear infinite;
 	-o-animation: move-background 150s linear infinite;
