@@ -42,14 +42,18 @@ body {
 	position: absolute;
 }
 
-.portada audio source {
-	z-index: 10;
-}
 
 .portada .header {
 	margin-bottom: 10px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
+}
+
+.portada .header audio{
+	margin-top: 5%;
+	color:red;
+	z-index: 50;
+	position:relative;
 }
 
 .portada .header .logotipo {
