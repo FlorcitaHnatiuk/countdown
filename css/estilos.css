@@ -42,8 +42,8 @@ body {
 	position: absolute;
 }
 
-.portada.oculta {
-	transform: translateY(100%);
+.portada audio source {
+	z-index: 10;
 }
 
 .portada .header {
