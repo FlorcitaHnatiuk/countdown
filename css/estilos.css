@@ -83,7 +83,6 @@ main {
 }
 
 .simply-section {
-	/* background: black; */
 	width: 180px;
 	height: 180px;
 	margin: 0 20px;
@@ -103,6 +102,13 @@ main {
 	font-weight: 300;
 	font-size: 30px;
 }
+
+@media only screen and (max-width: 600px) {
+	#cuenta {
+	  display: flex;
+	  flex-direction: column;
+	}
+  }
 
 @keyframes move-background {
 	from {
