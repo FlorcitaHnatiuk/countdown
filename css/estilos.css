@@ -29,7 +29,6 @@ body {
 .portada {
 	width: 100%;
 	background: black;
-	min-height: 100vh;
 	position: fixed;
 	top: 0;
 	left: 0;
