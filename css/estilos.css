@@ -106,6 +106,9 @@ main {
 		display: flex;
 		flex-direction: column;
 	}
+	div.vader {
+		z-index: 4;
+	}
 }
 
 @keyframes move-background {
